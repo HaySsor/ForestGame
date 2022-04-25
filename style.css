@@ -1,0 +1,44 @@
+body {
+  background: #1d5231;
+}
+
+* {
+  font-family: Lato;
+}
+
+.flex-row {
+  display: flex;
+  flex-direction: row;
+}
+
+.flex-column {
+  display: flex;
+  flex-direction: column;
+}
+.tree{
+  font-size: 1.2rem;
+}
+
+.counter {
+  padding: 1rem;
+  left: 30px;
+  width: 400px;
+  margin-top: 2rem;
+  height: 100%;
+  border: 1px solid black;
+  background-color: rgba(160, 160, 160, 0.623);
+  border-radius: 15px;
+  
+}
+.counter p {
+  font-size: 1.5rem;
+}
+.counter p span{
+  font-weight: bold;
+  color: gold;
+}
+
+.score{
+  color:gold;
+  font-style: italic;
+}
