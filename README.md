@@ -21,3 +21,5 @@ Spraw, żeby na skutek ruchu kursorem nad lasem:
 ### Punkty bonusowe
 
 1. Być może po odkryciu skarbu użytkownik mógłby usłyszeć wybrany przez ciebie podkład dźwiękowy? Zweryfikuj możliwości biblioteki [Howler](https://howlerjs.com/)
+
+Live https://stackblitz.com/edit/las-wgoxd2?file=index.js
